@@ -1,0 +1,25 @@
+.card{
+    border-radius: 10px;
+    height: 220px;
+    width: 300px;
+    padding: 2px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 240px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    background-color: rgb(19,109,250);
+    box-shadow: 5px 5px rgb(1, 26, 75);
+
+
+}
+
+.tb{
+    
+    background-color:rgb(19,109,250); 
+    border: 1px solid black;
+    margin-top: 15px;
+    width: 500px;
+    margin-bottom: 50px;
+
+}
